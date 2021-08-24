@@ -43,8 +43,10 @@ a{
 .midContainer{
   padding-top: 75px;
   padding-bottom: 25px;
-  width: 1250px;
-  margin: auto;
+}
+
+.midcontainer p{
+  letter-spacing: 2px;
 }
 
 .botContainer{
